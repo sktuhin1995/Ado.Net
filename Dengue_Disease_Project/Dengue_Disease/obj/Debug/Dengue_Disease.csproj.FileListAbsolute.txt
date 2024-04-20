@@ -1,0 +1,146 @@
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\Project 2\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form2.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(Ado.Net Project-2)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientNameUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form2.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorAppoinmentDays.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientNameUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorsInfo.resources
+C:\Users\sktuh\OneDrive\Desktop\Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form2.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorAppoinmentDays.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorsInfo.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientNameUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\Final Tuhin-1279564(Ado.Net Project-3)\Final Tuhin6-1279564(Ado.Net Project-3)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form2.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorAppoinmentDays.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorsInfo.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientNameUpdateDelete.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\stdole.dll
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorInformationReport.resources
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CopyComplete
+C:\Users\sktuh\OneDrive\Desktop\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientInformationReport.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe.config
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.exe
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\Dengue_Disease.pdb
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\bin\Debug\stdole.dll
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.AssemblyReference.cache
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form1.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Form2.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDenguesType.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorAppoinmentDays.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorInformationReport.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorsInfo.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmDoctorUpdateDelete.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientInformationReport.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatientNameUpdateDelete.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.frmPatients.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.Properties.Resources.resources
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.GenerateResource.cache
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CoreCompileInputs.cache
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.csproj.CopyComplete
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.exe
+F:\My Project\1279564(Ado.Net Project)\1279564(Ado.Net Project)\Dengue_Disease_Project\Dengue_Disease\obj\Debug\Dengue_Disease.pdb
